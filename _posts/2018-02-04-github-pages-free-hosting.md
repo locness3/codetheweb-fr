@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A beginner's guide to getting your website online with GitHub Pages
-image: '{{ site.baseurl }}assets/img/posts/github-pages-free-hosting/cover.png'
+image: 'assets/img/posts/github-pages-free-hosting/cover.png'
 tags: Other
 keywords: "GitHub Pages,GitHub Desktop,free hosting,hosting,GitHub"
 checked: [grammarly]

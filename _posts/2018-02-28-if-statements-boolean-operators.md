@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All about IF statements and booleans in JavaScript!
-image: '{{ site.baseurl }}assets/img/posts/if-statements-boolean-operators/cover.jpg'
+image: 'assets/img/posts/if-statements-boolean-operators/cover.jpg'
 photoCred: [Emily Morter,8xAA0f9yQnE]
 tags: JavaScript
 keywords: "If, If statements, Boolean, Booleans, If else, Else, Else if, Boolean operators, JavaScript, Learn JavaScript"

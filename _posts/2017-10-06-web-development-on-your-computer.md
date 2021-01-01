@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Practice web development on your computer'
-image: '{{ site.baseurl }}assets/img/posts/web-development-on-your-computer/cover.jpg'
+image: 'assets/img/posts/web-development-on-your-computer/cover.jpg'
 photoCred: [Goran Ivos,T8LMIN09-mo]
 date: 2017-10-06 01:00:00
 tags: Other

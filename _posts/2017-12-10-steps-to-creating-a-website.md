@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create a website using HTML and CSS in 7 steps"
-image: '{{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/cover.png'
+image: 'assets/img/posts/steps-to-creating-a-website/cover.png'
 tags: Other HTML CSS
 keywords: "how to create a webpage using html and css, how to create a website using html and css, steps to creating a website, how to create a website using html css and javascript step by step, how to create a website using html"
 checked: [grammarly]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How the internet works'
-image: '{{ site.baseurl }}assets/img/posts/how-the-internet-works/cover.png'
+image: {{ site.baseurl }}'assets/img/posts/how-the-internet-works/cover.png'
 tags: Back-end HTML CSS JavaScript Other
 suggestedlang: HTML
 checked: [grammarly]

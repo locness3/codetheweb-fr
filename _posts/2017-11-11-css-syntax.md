@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CSS syntax'
-image: '{{ site.baseurl }}assets/img/posts/css-syntax/cover.jpg'
+image: 'assets/img/posts/css-syntax/cover.jpg'
 photoCred: [Nick Karvounis,TkZYCXmrKK4]
 tags: CSS
 keywords: "learn CSS, how to learn CSS, CSS syntax, CSS"

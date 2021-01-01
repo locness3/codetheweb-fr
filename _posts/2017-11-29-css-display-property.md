@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CSS display types'
-image: '{{ site.baseurl }}assets/img/posts/css-display-property/cover.jpg'
+image: 'assets/img/posts/css-display-property/cover.jpg'
 photoCred: [Fabian Irsara,67l-QujB14w]
 tags: CSS
 keywords: "learn CSS, CSS syntax, CSS, display, display property, CSS display property, display types"

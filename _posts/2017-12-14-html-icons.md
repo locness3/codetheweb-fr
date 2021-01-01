@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The complete guide to HTML icons — iOS, Android, desktop and more..."
-image: '{{ site.baseurl }}assets/img/posts/html-icons/cover.png'
+image: 'assets/img/posts/html-icons/cover.png'
 tags: HTML
 keywords: "favicon, favicons, icon, icons, HTML, HTML favicons, HTML favicon, HTML icon, HTML icons, meta favicon"
 checked: [grammarly]

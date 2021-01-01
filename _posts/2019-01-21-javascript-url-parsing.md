@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to interpret URLs with JavaScript
-image: '{{ site.baseurl }}assets/img/posts/javascript-url-parsing/cover-text.png'
+image: 'assets/img/posts/javascript-url-parsing/cover-text.png'
 tags: JavaScript
 keywords: "URL, URLs, JavaScript URL, JavaScript URLs, new URL(), JavaScript new URL(), window.location, JavaScript window.location, JavaScript parse URL, JavaScript interpret URL, JavaScript parse URLs, get URL JavaScript, JavaScript get URL parameter, JavaScript get URL path, JavaScript get base URL, JavaScript url object, JavaScript, Learn JavaScript"
 checked: [grammarly]

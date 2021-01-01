@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Styling a navigation bar using CSS"
-image: '{{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/cover.png'
+image: 'assets/img/posts/style-a-navigation-bar-css/cover.png'
 photoCred: [Christopher Burns,C1J_eSGNPt0]
 tags: CSS
 keywords: "navigation bar, navbar, navbar css, navigation bar css, css navigation bar"

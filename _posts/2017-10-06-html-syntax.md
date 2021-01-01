@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HTML syntax'
-image: '{{ site.baseurl }}assets/img/posts/html-syntax/cover.jpg'
+image: 'assets/img/posts/html-syntax/cover.jpg'
 photoCred: [Sai Kiran Anagani,5Ntkpxqt54Y]
 date: 2017-10-06 02:00:00
 tags: HTML

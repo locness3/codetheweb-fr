@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Dialogs
-image: '{{ site.baseurl }}assets/img/posts/javascript-dialogs/cover.png'
+image: 'assets/img/posts/javascript-dialogs/cover.png'
 tags: JavaScript
 keywords: "dialog, dialog box, dialog boxes, JavaScript dialog, JavaScript dialog box, JavaScript dialog boxes, alert, alerts, JavaScript alert, JavaScript alerts, confirm, confirms, JavaScript confirm, JavaScript confirms, prompt, prompts, JavaScript prompt, JavaScript prompts, JavaScript dialog modal, JavaScript alert yes no, JavaScript dialog yes no, JavaScript, Learn JavaScript"
 checked: [grammarly]

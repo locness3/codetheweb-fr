@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lists and navigation in HTML'
-image: '{{ site.baseurl }}assets/img/posts/lists-and-navigation/cover.jpg'
+image: 'assets/img/posts/lists-and-navigation/cover.jpg'
 photoCred: [Glenn Carstens-Peters,RLw-UC03Gwc]
 tags: HTML
 keywords: "learn HTML, how to learn HTML, HTML tags, ul, ol, li, dl, dd, dt, list and navigation, lists, navigation, nav"

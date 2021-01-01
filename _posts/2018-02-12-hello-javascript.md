@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with JavaScript!
-image: '{{ site.baseurl }}assets/img/posts/hello-javascript/cover.png'
+image: 'assets/img/posts/hello-javascript/cover.png'
 photoCred: [Markus Spiske,8OyKWQgBsKQ]
 tags: JavaScript
 keywords: "JavaScript, Learn JavaScript"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS text properties, and how to use Google Fonts on your website"
-image: '{{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/cover.png'
+image: 'assets/img/posts/css-text-properties-and-google-fonts/cover.png'
 tags: CSS
 keywords: "CSS, fonts, CSS fonts, Google Fonts, learn CSS, CSS tutorial, tutorial"
 checked: [grammarly]

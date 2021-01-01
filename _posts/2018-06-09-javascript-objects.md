@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Objects
-image: '{{ site.baseurl }}assets/img/posts/javascript-objects/cover.png'
+image: 'assets/img/posts/javascript-objects/cover.png'
 tags: JavaScript
 keywords: "JavaScript Objects, objects, object, objects in JavaScript, JavaScript, Learn JavaScript"
 checked: [grammarly]

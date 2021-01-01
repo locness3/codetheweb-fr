@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The comprehensive guide to CSS flexboxes"
-image: '{{ site.baseurl }}assets/img/posts/css-flexboxes/cover.jpg'
+image: 'assets/img/posts/css-flexboxes/cover.jpg'
 tags: CSS
 keywords: "learn CSS, CSS syntax, CSS, flexbox, flexboxes, CSS flexbox, CSS flexboxes, display: flex, display: flex CSS, CSS flex"
 checked: [grammarly]

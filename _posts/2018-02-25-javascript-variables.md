@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Variables in JavaScript
-image: '{{ site.baseurl }}assets/img/posts/javascript-variables/cover.jpg'
+image: 'assets/img/posts/javascript-variables/cover.jpg'
 photoCred: [Markus Spiske,Skf7HxARcoc]
 tags: JavaScript
 keywords: "Variables, JavaScript, Learn JavaScript"

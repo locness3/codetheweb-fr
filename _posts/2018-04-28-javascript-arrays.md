@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The complete guide to JavaScript arrays
-image: '{{ site.baseurl }}assets/img/posts/javascript-arrays/cover.png'
+image: 'assets/img/posts/javascript-arrays/cover.png'
 tags: JavaScript
 keywords: "JavaScript arrays, arrays, array, arrays in JavaScript, join, reverse, indexOf, lastIndexOf, includes, find, findIndex, map, filter, reduce, sort, splice, nested arrays, JavaScript nested arrays, nested arrays in JavaScript, JavaScript, Learn JavaScript"
 checked: [grammarly]

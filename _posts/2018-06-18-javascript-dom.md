@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to change HTML and CSS with JavaScript — an introduction to the DOM
-image: '{{ site.baseurl }}assets/img/posts/javascript-dom/cover-text.jpg'
+image: 'assets/img/posts/javascript-dom/cover-text.jpg'
 photoCred: [Maik Jonietz,nZcMWOKAJrY]
 tags: JavaScript
 keywords: "JavaScript DOM, Change HTML and CSS with JavaScript, Change HTML with JavaScript, Edit HTML and CSS with JavaScript, Edit HTML with JavaScript, How to change HTML and CSS with JavaScript, How to change HTML with JavaScript, How to edit HTML and CSS with JavaScript, How to edit HTML with JavaScript, DOM, HTML DOM, JavaScript DOM, Document Object Model, HTML, CSS, JavaScript, Learn JavaScript"
