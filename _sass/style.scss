@@ -534,74 +534,6 @@ body.stop-scrolling {
     color: white;
 }
 
-.in-post-stream.newsletter {
-    background-color: $theme-color-single;
-    font-weight: bold;
-}
-
-.in-post-stream.newsletter *:first-child, .in-post-stream.social *:first-child {
-    margin-bottom: 1em;
-}
-
-.newsletter-form label {
-    display: block;
-    height: 0;
-    width: 0;
-    overflow: hidden;
-}
-
-.newsletter-form input {
-    font-family: inherit;
-    border: none;
-    font-size: 1em;
-    padding: .8em;
-    margin: 0 !important;
-    display: inline;
-    vertical-align: top;
-}
-
-.newsletter-form input[type="email"] {
-    width: 70%;
-}
-
-.newsletter-form input[type="submit"] {
-    width: 29%;
-    font-family: $serif;
-    font-weight: bold;
-    vertical-align: middle;
-    cursor: pointer;
-    background: #f8cc5c;
-}
-
-// .newsletter-form .note {
-//     margin-top: 1rem;
-//     font-size: 0.75em;
-//     font-weight: normal;
-//     DISPLAY: NONE;
-// }
-
-.newsletter-form .extra {
-    height: 0;
-    overflow: hidden;
-    transition: height, 1s;
-}
-
-.newsletter-form .extra input {
-    margin: .25em !important;
-}
-
-.newsletter-form .extra .measurer > input:first-child {
-    margin-top: .5em !important;
-}
-
-.newsletter-form .row {
-    display: flex;
-}
-
-.newsletter-form .extra input:not([required]) {
-    opacity: .7;
-}
-
 .in-post-stream.social {
     background-color: white;
     color: #656565;
@@ -960,239 +892,11 @@ header .top-index-content {
     display: none;
 }
 
-.top-index-content .in-post-stream.newsletter {
-    padding:  0;
-    background: transparent;
-    margin-top:  2em;
-}
-
-// .top-index-content .in-post-stream.newsletter .note {
-//     display:  none;
-// }
-
-.top-index-content .in-post-stream.newsletter .explainer {
-    display: none;
-}
-
-.top-index-content .in-post-stream.newsletter:before {
-    content: 'Get a weekly email filled with resources to learn web development:';
-    display: block;
-    margin-bottom: 1em;
-    cursor: text;
-}
-
-.top-index-content .in-post-stream.newsletter input[type="submit"] {
-    font-family: $sans-serif;
-    color: white;
-    background: #f8cc5c;
-}
-
-/* Freebie page */
-
-.freebie-hero {
-    background-color: $theme-color-single;
-    color: white;
-    box-sizing: border-box;
-    min-height: 80vh;
-    padding-top: 58px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-column-gap: 4rem;
-    align-items: center;
-    overflow: hidden;
-}
-
-.freebie-hero a {
-    color: white;
-    text-decoration: underline;
-}
-
-.freebie-hero > *:first-child {
-    box-sizing: border-box;
-    width: 50vw;
-    padding-left: 4rem;
-    text-align: right;
-}
-
-.freebie-hero h1 {
-    font-size: 3em;
-}
-
-.freebie-hero h2 {
-    font-size: 1.2em;
-    font-family: $serif;
-    margin: 1rem 0;
-}
-
-.freebie-hero .newsletter-form {
-    margin-left: auto;
-}
-
-.freebie-hero .newsletter-form input[type="email"] {
-    width: 69%;
-    /* text-align: right; */
-}
-
-.freebie-hero img.teaser {
-    height: 60vh;
-    box-shadow: 0 0 6em rgba(0,0,0,0.42);
-    filter: blur(2px);
-}
-
-.freebie-explanation {
-    box-sizing: border-box;
-    height: 20vh;
-    padding: 0 20%;
-    font-size: 1em;
-    font-weight: 500;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-.freebie-explanation > a {
-    cursor: help;
-}
-    
-.freebie-hero.promo {
-    padding: 1rem 0;
-    margin-bottom: 32px !important;
-    min-height: auto !important;
-}
-.freebie-hero.promo > *:first-child {
-    width: calc(695px * 0.8);
-}
-.freebie-hero.promo img {
-    height: 20rem;
-}
-/* End freebie stuff */
-
 .after-post {
     width: 720px;
     margin: 0 auto;
 }
 
-/* Newsletter page */
-.newsletter-page {
-    background-color: white;
-    height: 100%;
-}
-.newsletter-page .newsletter-header {
-    min-height: 50vh;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    font-size: 2em;
-    padding: 5% 0;
-    border-radius: calc((100vw - 695px) / 2);
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-    background: $theme-color-single;
-}
-
-.newsletter-page .newsletter-header > div {
-    width: 695px;
-    max-width: 90%;
-    text-align: left;
-}
-
-.newsletter-page .newsletter-header .code-the-web-weekly-logo {
-    margin: 0 auto;
-    font-family: $serif;
-    font-size: 0.7em;
-    padding-bottom: .5em;
-    margin-bottom: .5em;
-    border-bottom: 3px solid;
-    width: max-content;
-}
-
-.newsletter-page .newsletter-header h1 {
-    font-family: $serif;
-}
-
-.newsletter-page .newsletter-header .subheading {
-    margin-top: .5em;
-    font-size: 1.5rem;
-    font-weight: normal;
-}
-
-.newsletter-page main {
-    width: 695px;
-    max-width: 90%;
-    margin: 0 auto;
-}
-
-.newsletter-page .newsletter:first-child {
-    margin-top: -2em;
-    border-color: transparent;
-}
-
-.newsletter-page .preview {
-    background-color: #f7f7f7;
-    height: 100vh; /* Before JS */;
-    width: 100%;
-    padding: 0;
-    /* margin-bottom: 2em; */
-    
-    border: 2px solid #e7eaf1 !important;
-}
-
-.newsletter-page .leading-text {
-    text-align: center;
-    margin: 2em;
-}
-
-.newsletter-page .example-newsletter-title {
-    text-align: center;
-    margin: 1em;
-}
-
-.newsletter-page .in-post-stream.newsletter .explainer {
-    display: none;
-}
-/* End newsletter page */
-
-.newsletter-thanks h1 {
-    padding-top: 0;
-    font-family: $monospace;
-    text-align: center;
-    font-weight: bold;
-}
-
-.newsletter-thanks {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.newsletter-thanks > div {
-    max-width: 695px;
-}
-/*
-.newsletter-thanks .bmc-wrapper {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-}
-.newsletter-thanks .bmc-button, .newsletter-thanks .ph-button {
-    box-shadow: 0 0 1em white !important;
-}
-
-.newsletter-thanks .ph-button {
-    background: #da552f;
-    color: white;
-    border: none;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    margin-top: 2em !important;
-    display: block;
-    padding: 1em;
-    text-align: center;
-}
-*/
 .book-page .book-img {
     width: 100%;
 }
@@ -1499,12 +1203,6 @@ header .top-index-content {
     font-weight: bold;
 }
 
-.after-post .newsletter {
-    border: none;
-    box-shadow: none;
-    border-radius: 10px;
-}
-
 .markdown-body {
     font-family: $serif;
     background: $page-bg;
@@ -1665,30 +1363,6 @@ body.post .g-header {
     }
     .home-banner-inner {
         width: 695px;
-    }
-    /* Freebie page */
-    .freebie-hero {
-        min-height: auto;
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: center;
-        justify-content: center;
-        padding: 4rem !important;
-    }
-    .freebie-hero > *:first-child {
-        width: auto !important;
-        padding-left: 0;
-        margin-top: 4rem;
-        text-align: center;
-    }
-    .freebie-hero img {
-        width: 80%;
-        height: auto !important;
-    }
-    .freebie-explanation {
-        padding: 2rem 4rem;
-        height: auto;
-        text-align: justify;
     }
 }
 
@@ -1906,20 +1580,6 @@ body.post .g-header {
         text-align: center;
     }
     
-    .in-post-stream.newsletter input {
-        display: block !important;
-        width: 100% !important;
-        text-align: center;
-    }
-    
-    .in-post-stream.newsletter input:first-child {
-        margin-bottom: .5em !important;
-    }
-    
-    // .in-post-stream.newsletter .note {
-    //     text-align: center !important;
-    // }
-    
     .in-post-stream.social .explainer {
         display: block !important;
     }
@@ -1938,18 +1598,6 @@ body.post .g-header {
     }
     .post-header h1 {
         font-size: 2em;
-    }
-    
-    /* Freebie page */
-    .freebie-hero {
-        padding: 4rem 1rem !important;
-    }
-    .freebie-explanation {
-        padding: 2rem 1rem;
-    }
-    /* End freebie page */
-    .newsletter-page .newsletter-header {
-        font-size: 1.6em;
     }
     
     .learn-lang-banner {
@@ -1972,23 +1620,12 @@ body.post .g-header {
         font-size: 70px;
         line-height: 70px;
     }
-    .freebie-hero .newsletter-form input {
-        display: block !important;
-        width: 100% !important;
-        text-align: center;
-    }
-    .freebie-hero .newsletter-form input:first-child {
-        margin-bottom: .5em !important;
-    }
 }
 
 @media screen and (max-width: 500px) {
     .markdown-body blockquote p {
         letter-spacing: 0; /* 1px by default theme styles, idk why because it looks terrible... */
         word-break: unset; /* break-all by default theme styles, idk why because it looks terrible... */
-    }
-    .in-post-stream.newsletter .row, .newsletter-form .row {
-        flex-wrap: wrap;
     }
 }
 
