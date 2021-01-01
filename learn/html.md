@@ -7,7 +7,7 @@ purpose: building websites
 <!-- I've written many tutorials on HTML. As I want to make them easy to learn from, I've complied a list of which posts to check out in what order if you want to learn HTML. If you want to know more about Code The Web, check out the [welcome post][welcome].
 
 <section class="freebie-hero promo">
-    {% include guide-to-learning-html-freebie-hero.html %}
+    {% comment %}{% include guide-to-learning-html-freebie-hero.html %}{% endcomment %}
 </section>
 
 # Prerequisites
