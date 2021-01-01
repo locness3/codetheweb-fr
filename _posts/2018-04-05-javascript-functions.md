@@ -404,7 +404,7 @@ If you learned something from this article, I'd really appreciate it if you [bou
 If you know someone who this article or this blog would benefit, go ahead an [share it with them][share] &mdash; they'll thank you later &#x1F61C;
 
 Finally, if you want to receive some web-dev goodness in your inbox each week to help you learn JavaScript, enter your email and I'll do just that &#x1F61C;
-{% include newsletter.html %}
+{% comment %}{% include newsletter.html %}{% endcomment %}
 
 Okay, that's it for today! Have fun coding and I'll see you next time, where I'll be talking all about [arrays (aka. lists) in JavaScript][arrays]. See you then! &#x1F44A;
 
