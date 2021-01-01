@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How the internet works'
-image: '/assets/img/posts/how-the-internet-works/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/how-the-internet-works/cover.png'
 tags: Back-end HTML CSS JavaScript Other
 suggestedlang: HTML
 checked: [grammarly]
@@ -59,7 +59,7 @@ Remember I said that all URL's do is tell your computer where to download the we
 
 If you liked this article, don't forget to [share with your friends][share] or [leave a comment below][comments] to say hi (feedback is always welcome)!
 
-[no-css]: /assets/img/posts/how-to-learn-web-development/no-css.png
+[no-css]: {{ site.baseurl }}assets/img/posts/how-to-learn-web-development/no-css.png
 [prev-post]: /how-to-learn-web-development/
 [domcomp]: https://www.domcomp.com/
 [languages-explained]: /how-to-learn-web-development/#html

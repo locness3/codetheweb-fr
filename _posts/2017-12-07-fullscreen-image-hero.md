@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create a full-page hero image (HTML & CSS)"
-image: '/assets/img/posts/full-image-hero/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/full-image-hero/cover.png'
 photoCred: [ben o'bro,wpU4veNGnHg]
 tags: CSS
 keywords: "hero image tutorial, hero image, tutorial, hero image html, hero image css, hero image code, fullscreen hero image, fullsize hero image, css banner image, css hero image, hero image html, header hero, hero header"
@@ -13,7 +13,7 @@ Hero images are used by websites all over the internet and look awesome. Learn h
 ## What we'll be making
 Here's what we'll be making today:
 <!-- ![A full-screen image header][final-product-gif] -->
-{% gifvid /assets/img/posts/full-image-hero/final-product %}
+{% gifvid {{ site.baseurl }}assets/img/posts/full-image-hero/final-product %}
 
 [You can view a live demo here.][demo]{:target='_blank'}
 
@@ -383,7 +383,7 @@ Makes the background image stay in the same spot, even you scroll down the page.
 
 Save, reload and take a look at the result:
 <!-- ![The results of the background-image property][bg-img-gif] -->
-{% gifvid /assets/img/posts/full-image-hero/bg-img %}
+{% gifvid {{ site.baseurl }}assets/img/posts/full-image-hero/bg-img %}
 
 Awesome! However, it is very hard to see the text now. What if we tried making everything white?
 Here are the lines of our CSS file to add/change:
@@ -536,26 +536,26 @@ Okay! Have fun, keep coding and I'll see you next time, where I'll be talking ab
 [vw-vh]: /css-units/#vw--vh
 [perfect-centering]: /css-flexboxes/#perfect-centering
 [advanced-bg-images]: /css-advanced-background-images/
-[bg-image-link]: /assets/img/posts/full-image-hero/image.jpg
+[bg-image-link]: {{ site.baseurl }}assets/img/posts/full-image-hero/image.jpg
 [gradients]: {{site.newsletter}}
 [style-nav-bar]: /style-a-navigation-bar-css/
 
-[final-product]: /assets/img/posts/full-image-hero/final-product.png
-[final-product-gif]: /assets/img/posts/full-image-hero/final-product.gif
-[before-css]: /assets/img/posts/full-image-hero/before-css.png
-[hero-sizing]: /assets/img/posts/full-image-hero/hero-sizing.png
-[flexbox-centered]: /assets/img/posts/full-image-hero/flexbox-centered.png
-[properly-centered]: /assets/img/posts/full-image-hero/properly-centered.png
-[large-title]: /assets/img/posts/full-image-hero/large-title.png
-[fixed-title-margins]: /assets/img/posts/full-image-hero/fixed-title-margins.png
-[btn-initial-styling]: /assets/img/posts/full-image-hero/btn-initial-styling.png
-[btn-margin-padding]: /assets/img/posts/full-image-hero/btn-margin-padding.png
-[btn-centered]: /assets/img/posts/full-image-hero/btn-centered.png
-[btn-text-styles]: /assets/img/posts/full-image-hero/btn-text-styles.png
-[btn-border-radius]: /assets/img/posts/full-image-hero/btn-border-radius.png
-[bg-img-gif]: /assets/img/posts/full-image-hero/bg-img.gif
-[white-over-bg]: /assets/img/posts/full-image-hero/white-over-bg.png
-[darkened-background]: /assets/img/posts/full-image-hero/darkened-background.png
+[final-product]: {{ site.baseurl }}assets/img/posts/full-image-hero/final-product.png
+[final-product-gif]: {{ site.baseurl }}assets/img/posts/full-image-hero/final-product.gif
+[before-css]: {{ site.baseurl }}assets/img/posts/full-image-hero/before-css.png
+[hero-sizing]: {{ site.baseurl }}assets/img/posts/full-image-hero/hero-sizing.png
+[flexbox-centered]: {{ site.baseurl }}assets/img/posts/full-image-hero/flexbox-centered.png
+[properly-centered]: {{ site.baseurl }}assets/img/posts/full-image-hero/properly-centered.png
+[large-title]: {{ site.baseurl }}assets/img/posts/full-image-hero/large-title.png
+[fixed-title-margins]: {{ site.baseurl }}assets/img/posts/full-image-hero/fixed-title-margins.png
+[btn-initial-styling]: {{ site.baseurl }}assets/img/posts/full-image-hero/btn-initial-styling.png
+[btn-margin-padding]: {{ site.baseurl }}assets/img/posts/full-image-hero/btn-margin-padding.png
+[btn-centered]: {{ site.baseurl }}assets/img/posts/full-image-hero/btn-centered.png
+[btn-text-styles]: {{ site.baseurl }}assets/img/posts/full-image-hero/btn-text-styles.png
+[btn-border-radius]: {{ site.baseurl }}assets/img/posts/full-image-hero/btn-border-radius.png
+[bg-img-gif]: {{ site.baseurl }}assets/img/posts/full-image-hero/bg-img.gif
+[white-over-bg]: {{ site.baseurl }}assets/img/posts/full-image-hero/white-over-bg.png
+[darkened-background]: {{ site.baseurl }}assets/img/posts/full-image-hero/darkened-background.png
 
 [html]: /learn/html/
 [css]: /learn/css/`

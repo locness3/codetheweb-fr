@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lists and navigation in HTML'
-image: '/assets/img/posts/lists-and-navigation/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/lists-and-navigation/cover.jpg'
 photoCred: [Glenn Carstens-Peters,RLw-UC03Gwc]
 tags: HTML
 keywords: "learn HTML, how to learn HTML, HTML tags, ul, ol, li, dl, dd, dt, list and navigation, lists, navigation, nav"
@@ -149,8 +149,8 @@ Have fun, and I'll see you all next week where I'll be writing [my first CSS tut
 [nav-bar-css]: /style-a-navigation-bar-css/
 [css-syntax]: /css-syntax/
 [first-post]: /welcome/
-[my-nav]: /assets/img/posts/lists-and-navigation/my-nav.png
-[other-nav]: /assets/img/posts/lists-and-navigation/froala-nav.png
+[my-nav]: {{ site.baseurl }}assets/img/posts/lists-and-navigation/my-nav.png
+[other-nav]: {{ site.baseurl }}assets/img/posts/lists-and-navigation/froala-nav.png
 [share]: {{site.share}}
 [comments]: {{site.comments}}
 [newsletter]: {{site.newsletter}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to interpret URLs with JavaScript
-image: '/assets/img/posts/javascript-url-parsing/cover-text.png'
+image: '{{ site.baseurl }}assets/img/posts/javascript-url-parsing/cover-text.png'
 tags: JavaScript
 keywords: "URL, URLs, JavaScript URL, JavaScript URLs, new URL(), JavaScript new URL(), window.location, JavaScript window.location, JavaScript parse URL, JavaScript interpret URL, JavaScript parse URLs, get URL JavaScript, JavaScript get URL parameter, JavaScript get URL path, JavaScript get base URL, JavaScript url object, JavaScript, Learn JavaScript"
 checked: [grammarly]
@@ -203,9 +203,9 @@ See you next time, where I'll be talking about [dates and time in JavaScript][js
 [links-and-file-paths]: /links-images-about-file-paths
 [js-dates]: /javascript-dates-and-times/
 
-[url-annotated-img]: /assets/img/posts/javascript-url-parsing/url-annotated.png
-[console-log-myURL-img]: /assets/img/posts/javascript-url-parsing/console-log-myURL.png
-[console-log-window-location-img]: /assets/img/posts/javascript-url-parsing/console-log-window-location.png
+[url-annotated-img]: {{ site.baseurl }}assets/img/posts/javascript-url-parsing/url-annotated.png
+[console-log-myURL-img]: {{ site.baseurl }}assets/img/posts/javascript-url-parsing/console-log-myURL.png
+[console-log-window-location-img]: {{ site.baseurl }}assets/img/posts/javascript-url-parsing/console-log-window-location.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

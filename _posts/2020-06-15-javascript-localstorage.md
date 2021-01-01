@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to store data in the browser using JavaScript localStorage
-image: '/assets/img/posts/javascript-localstorage/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/javascript-localstorage/cover.jpg'
 tags: JavaScript
 keywords: "JavaScript, Learn JavaScript, localStorage, JavaScript localStorage, store data using JavaScript, JavaScript store data, JavaScript store data on reload"
 checked: [grammarly]
@@ -214,15 +214,15 @@ See you next time! &#x1F600;
 [objects]: /javascript-objects/
 [arrays]: /javascript-arrays/
 
-[inspector-application-tab-button-img]: /assets/img/posts/javascript-localstorage/inspector-application-tab-button.png
-[inspector-application-localstorage-table-img]: /assets/img/posts/javascript-localstorage/inspector-application-localstorage-table.png
-[full-name-jenny-smith-img]: /assets/img/posts/javascript-localstorage/full-name-jenny-smith.png
-[page-load-count-0-img]: /assets/img/posts/javascript-localstorage/page-load-count-0.png
-[jenny-smith-console-img]: /assets/img/posts/javascript-localstorage/jenny-smith-console.png
-[page-load-count-wrong-img]: /assets/img/posts/javascript-localstorage/page-load-count-wrong.png
-[object-object-img]: /assets/img/posts/javascript-localstorage/object-object.png
-[object-stringified-img]: /assets/img/posts/javascript-localstorage/object-stringified.png
-[object-parsed-log-img]: /assets/img/posts/javascript-localstorage/object-parsed-log.png
+[inspector-application-tab-button-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/inspector-application-tab-button.png
+[inspector-application-localstorage-table-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/inspector-application-localstorage-table.png
+[full-name-jenny-smith-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/full-name-jenny-smith.png
+[page-load-count-0-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/page-load-count-0.png
+[jenny-smith-console-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/jenny-smith-console.png
+[page-load-count-wrong-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/page-load-count-wrong.png
+[object-object-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/object-object.png
+[object-stringified-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/object-stringified.png
+[object-parsed-log-img]: {{ site.baseurl }}assets/img/posts/javascript-localstorage/object-parsed-log.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

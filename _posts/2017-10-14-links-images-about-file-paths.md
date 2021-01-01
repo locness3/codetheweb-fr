@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Links, images and about file paths'
-image: '/assets/img/posts/links-images-about-file-paths/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/links-images-about-file-paths/cover.jpg'
 photoCred: [Fré Sonneveld,K8iHtzoIKQ4]
 tags: HTML
 keywords: "learn HTML, how to learn HTML, HTML tags, links, images, files, file paths"
@@ -256,9 +256,9 @@ If you need any help or have something to say, [tell me in the comments][comment
 [how-the-internet-works]: /how-the-internet-works/
 [run-code]: /web-development-on-your-computer/#running-your-code
 [br]: /basic-types-of-html-tags/#line-breaks-br
-[llama-pic]: /assets/img/posts/links-images-about-file-paths/llama.jpg
-[folder-1]: /assets/img/posts/links-images-about-file-paths/folder-1.png
-[folder-2]: /assets/img/posts/links-images-about-file-paths/folder-2.png
+[llama-pic]: {{ site.baseurl }}assets/img/posts/links-images-about-file-paths/llama.jpg
+[folder-1]: {{ site.baseurl }}assets/img/posts/links-images-about-file-paths/folder-1.png
+[folder-2]: {{ site.baseurl }}assets/img/posts/links-images-about-file-paths/folder-2.png
 [share]: {{site.share}}
 [comments]: {{site.comments}}
 [newsletter]: {{site.newsletter}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CSS display types'
-image: '/assets/img/posts/css-display-property/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/css-display-property/cover.jpg'
 photoCred: [Fabian Irsara,67l-QujB14w]
 tags: CSS
 keywords: "learn CSS, CSS syntax, CSS, display, display property, CSS display property, display types"
@@ -169,12 +169,12 @@ Have fun and I'll see you next time, where I'll be talking about some [cool stuf
 [advanced-bg-images]: /css-advanced-background-images/
 [2-months-post]: /two-months/
 
-[initial-code]: /assets/img/posts/css-display-property/initial-code.png
-[block-width]: /assets/img/posts/css-display-property/block-width.png
-[new-block-element]: /assets/img/posts/css-display-property/new-block-element.png
-[inline-word]: /assets/img/posts/css-display-property/inline-word.png
-[display-none]: /assets/img/posts/css-display-property/display-none.png
-[visibility-hidden]: /assets/img/posts/css-display-property/visibility-hidden.png
+[initial-code]: {{ site.baseurl }}assets/img/posts/css-display-property/initial-code.png
+[block-width]: {{ site.baseurl }}assets/img/posts/css-display-property/block-width.png
+[new-block-element]: {{ site.baseurl }}assets/img/posts/css-display-property/new-block-element.png
+[inline-word]: {{ site.baseurl }}assets/img/posts/css-display-property/inline-word.png
+[display-none]: {{ site.baseurl }}assets/img/posts/css-display-property/display-none.png
+[visibility-hidden]: {{ site.baseurl }}assets/img/posts/css-display-property/visibility-hidden.png
 
 [html]: /learn/html/
 [css]: /learn/css/

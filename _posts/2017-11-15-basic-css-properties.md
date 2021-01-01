@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Basic CSS properties'
-image: '/assets/img/posts/basic-css-properties/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/basic-css-properties/cover.jpg'
 photoCred: [Pineapple Supply Co.,VHpDp_GkGgc]
 tags: CSS
 keywords: "learn CSS, how to learn CSS, CSS syntax, CSS"
@@ -186,15 +186,15 @@ Have fun, and I'll see you next time where I'll be talking about [CSS sizing and
 [images]: /links-images-about-file-paths/
 [advanced-bg-images]: /css-advanced-background-images/
 
-[color-screenshot]: /assets/img/posts/basic-css-properties/color-screenshot.png
-[rgb-screenshot]: /assets/img/posts/basic-css-properties/rgb-screenshot.png
-[rgba-screenshot]: /assets/img/posts/basic-css-properties/rgba-screenshot.png
-[hex-screenshot]: /assets/img/posts/basic-css-properties/hex-screenshot.png
-[bg-color-screenshot]: /assets/img/posts/basic-css-properties/bg-color-screenshot.png
-[bg-img-screenshot]: /assets/img/posts/basic-css-properties/bg-img-screenshot.png
-[font-size-screenshot]: /assets/img/posts/basic-css-properties/font-size-screenshot.png
-[text-align-center-screenshot]: /assets/img/posts/basic-css-properties/text-align-center-screenshot.png
-[text-align-right-screenshot]: /assets/img/posts/basic-css-properties/text-align-right-screenshot.png
+[color-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/color-screenshot.png
+[rgb-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/rgb-screenshot.png
+[rgba-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/rgba-screenshot.png
+[hex-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/hex-screenshot.png
+[bg-color-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/bg-color-screenshot.png
+[bg-img-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/bg-img-screenshot.png
+[font-size-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/font-size-screenshot.png
+[text-align-center-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/text-align-center-screenshot.png
+[text-align-right-screenshot]: {{ site.baseurl }}assets/img/posts/basic-css-properties/text-align-right-screenshot.png
 
 [html]: /learn/html/
 [css]: /learn/css/

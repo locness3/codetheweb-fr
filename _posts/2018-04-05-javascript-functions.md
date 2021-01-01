@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The complete guide to JavaScript functions
-image: '/assets/img/posts/javascript-functions/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/javascript-functions/cover.jpg'
 photoCred: [Luca Bravo,XJXWbfSo2f0]
 tags: JavaScript
 keywords: "JavaScript functions, functions, functions in JavaScript, returning functions, JavaScript returning functions, JavaScript, Learn JavaScript"

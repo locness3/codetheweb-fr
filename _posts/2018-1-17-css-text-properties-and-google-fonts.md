@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS text properties, and how to use Google Fonts on your website"
-image: '/assets/img/posts/css-text-properties-and-google-fonts/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/cover.png'
 tags: CSS
 keywords: "CSS, fonts, CSS fonts, Google Fonts, learn CSS, CSS tutorial, tutorial"
 checked: [grammarly]
@@ -273,23 +273,23 @@ See you next time, where I'll be talking about [using custom font files][custom-
 [imports]: {{site.newsletter}}
 [pomodoro]: https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-[new-year-1]: /assets/img/posts/css-text-properties-and-google-fonts/new-year-1.jpg
-[base-code]: /assets/img/posts/css-text-properties-and-google-fonts/base-code.png
-[font-size]: /assets/img/posts/css-text-properties-and-google-fonts/font-size.png
-[font-weight-bold]: /assets/img/posts/css-text-properties-and-google-fonts/font-weight-bold.png
-[two-lines]: /assets/img/posts/css-text-properties-and-google-fonts/two-lines.png
-[line-height-200px]: /assets/img/posts/css-text-properties-and-google-fonts/line-height-200px.png
-[line-height-200px-annotated]: /assets/img/posts/css-text-properties-and-google-fonts/line-height-200px-annotated.png
-[letter-spacing]: /assets/img/posts/css-text-properties-and-google-fonts/letter-spacing.png
-[font-family-fantasy]: /assets/img/posts/css-text-properties-and-google-fonts/font-family-fantasy.png
-[g-fonts-logo]: /assets/img/posts/css-text-properties-and-google-fonts/cover.png
-[g-fonts-home]: /assets/img/posts/css-text-properties-and-google-fonts/g-fonts-home.png
-[g-fonts-select-font]: /assets/img/posts/css-text-properties-and-google-fonts/g-fonts-select-font.png
-[g-fonts-selected-panel-closed]: /assets/img/posts/css-text-properties-and-google-fonts/g-fonts-selected-panel-closed.png
-[g-fonts-selected-panel-opened]: /assets/img/posts/css-text-properties-and-google-fonts/g-fonts-selected-panel-opened.png
-[g-fonts-css-import-button]: /assets/img/posts/css-text-properties-and-google-fonts/g-fonts-css-import-button.png
-[g-fonts-css-import-copy]: /assets/img/posts/css-text-properties-and-google-fonts/g-fonts-css-import-copy.png
-[font-family-ribeye-marrow]: /assets/img/posts/css-text-properties-and-google-fonts/font-family-ribeye-marrow.png
+[new-year-1]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/new-year-1.jpg
+[base-code]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/base-code.png
+[font-size]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/font-size.png
+[font-weight-bold]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/font-weight-bold.png
+[two-lines]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/two-lines.png
+[line-height-200px]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/line-height-200px.png
+[line-height-200px-annotated]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/line-height-200px-annotated.png
+[letter-spacing]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/letter-spacing.png
+[font-family-fantasy]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/font-family-fantasy.png
+[g-fonts-logo]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/cover.png
+[g-fonts-home]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/g-fonts-home.png
+[g-fonts-select-font]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/g-fonts-select-font.png
+[g-fonts-selected-panel-closed]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/g-fonts-selected-panel-closed.png
+[g-fonts-selected-panel-opened]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/g-fonts-selected-panel-opened.png
+[g-fonts-css-import-button]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/g-fonts-css-import-button.png
+[g-fonts-css-import-copy]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/g-fonts-css-import-copy.png
+[font-family-ribeye-marrow]: {{ site.baseurl }}assets/img/posts/css-text-properties-and-google-fonts/font-family-ribeye-marrow.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The complete guide to JavaScript arrays
-image: '/assets/img/posts/javascript-arrays/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/javascript-arrays/cover.png'
 tags: JavaScript
 keywords: "JavaScript arrays, arrays, array, arrays in JavaScript, join, reverse, indexOf, lastIndexOf, includes, find, findIndex, map, filter, reduce, sort, splice, nested arrays, JavaScript nested arrays, nested arrays in JavaScript, JavaScript, Learn JavaScript"
 checked: [grammarly]
@@ -631,8 +631,8 @@ https://carbon.now.sh/?bg=rgba(0,0,0,1)&t=lucario&wt=none&l=javascript&ds=true&d
 [objects]: /javascript-objects/
 [or]: /if-statements-boolean-operators/#multiple-truefalse-statements
 
-[console]: /assets/img/posts/javascript-arrays/console.png
-[array.split]: /assets/img/posts/javascript-arrays/array.split.png
+[console]: {{ site.baseurl }}assets/img/posts/javascript-arrays/console.png
+[array.split]: {{ site.baseurl }}assets/img/posts/javascript-arrays/array.split.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

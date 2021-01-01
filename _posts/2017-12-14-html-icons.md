@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The complete guide to HTML icons — iOS, Android, desktop and more..."
-image: '/assets/img/posts/html-icons/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/html-icons/cover.png'
 tags: HTML
 keywords: "favicon, favicons, icon, icons, HTML, HTML favicons, HTML favicon, HTML icon, HTML icons, meta favicon"
 checked: [grammarly]
@@ -162,22 +162,22 @@ Next time, I'll be doing a special post on [Quick-reference sites to help you al
 [real-favicon-generator]: https://realfavicongenerator.net/
 [reference-sites-to-help-you-learn-coding]: /html-icons/
 
-[base-code]: /assets/img/posts/html-icons/base-code.png
-[waffle-1200px]: /assets/img/posts/html-icons/icon1200.png
-[no-tab-icon-zoom]: /assets/img/posts/html-icons/no-tab-icon-zoom.png
-[tab]: /assets/img/posts/html-icons/tab.png
-[tab-zoom]: /assets/img/posts/html-icons/tab-zoom.png
-[safari-default]: /assets/img/posts/html-icons/safari-default.png
-[safari-custom]: /assets/img/posts/html-icons/safari-custom.png
-[ios-bookmark-icon]: /assets/img/posts/html-icons/ios-bookmark-icon.png
-[mac-bookmark-icon]: /assets/img/posts/html-icons/mac-bookmark-icon.png
-[windows-tiles]: /assets/img/posts/html-icons/windows-tiles.jpg
-[windows-phone-tiles]: /assets/img/posts/html-icons/windows-phone-tiles.png
-[icon-rect-2480]: /assets/img/posts/html-icons/icon-rect-2480.png
-[icon-trans-1200]: /assets/img/posts/html-icons/icon-trans-1200.png
-[icon-rect-trans-2480]: /assets/img/posts/html-icons/icon-rect-trans-2480.png
-[map-tile]: /assets/img/posts/html-icons/map-tile.png
-[custom-windows-tiles]: /assets/img/posts/html-icons/custom-windows-tiles.png
+[base-code]: {{ site.baseurl }}assets/img/posts/html-icons/base-code.png
+[waffle-1200px]: {{ site.baseurl }}assets/img/posts/html-icons/icon1200.png
+[no-tab-icon-zoom]: {{ site.baseurl }}assets/img/posts/html-icons/no-tab-icon-zoom.png
+[tab]: {{ site.baseurl }}assets/img/posts/html-icons/tab.png
+[tab-zoom]: {{ site.baseurl }}assets/img/posts/html-icons/tab-zoom.png
+[safari-default]: {{ site.baseurl }}assets/img/posts/html-icons/safari-default.png
+[safari-custom]: {{ site.baseurl }}assets/img/posts/html-icons/safari-custom.png
+[ios-bookmark-icon]: {{ site.baseurl }}assets/img/posts/html-icons/ios-bookmark-icon.png
+[mac-bookmark-icon]: {{ site.baseurl }}assets/img/posts/html-icons/mac-bookmark-icon.png
+[windows-tiles]: {{ site.baseurl }}assets/img/posts/html-icons/windows-tiles.jpg
+[windows-phone-tiles]: {{ site.baseurl }}assets/img/posts/html-icons/windows-phone-tiles.png
+[icon-rect-2480]: {{ site.baseurl }}assets/img/posts/html-icons/icon-rect-2480.png
+[icon-trans-1200]: {{ site.baseurl }}assets/img/posts/html-icons/icon-trans-1200.png
+[icon-rect-trans-2480]: {{ site.baseurl }}assets/img/posts/html-icons/icon-rect-trans-2480.png
+[map-tile]: {{ site.baseurl }}assets/img/posts/html-icons/map-tile.png
+[custom-windows-tiles]: {{ site.baseurl }}assets/img/posts/html-icons/custom-windows-tiles.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

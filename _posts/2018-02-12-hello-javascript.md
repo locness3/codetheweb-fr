@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting started with JavaScript!
-image: '/assets/img/posts/hello-javascript/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/hello-javascript/cover.png'
 photoCred: [Markus Spiske,8OyKWQgBsKQ]
 tags: JavaScript
 keywords: "JavaScript, Learn JavaScript"
@@ -156,8 +156,8 @@ See you next time, where I'll be talking about [variables][vars] - one of the *m
 [functions]: /javascript-functions/
 [vars]: /javascript-variables/
 
-[semicolon-keyboard]: /assets/img/posts/hello-javascript/semicolon-keyboard.png
-[alert]: /assets/img/posts/hello-javascript/alert.png
+[semicolon-keyboard]: {{ site.baseurl }}assets/img/posts/hello-javascript/semicolon-keyboard.png
+[alert]: {{ site.baseurl }}assets/img/posts/hello-javascript/alert.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

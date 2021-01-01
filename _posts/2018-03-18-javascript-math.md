@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Maths functions and operators
-image: '/assets/img/posts/javascript-math/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/javascript-math/cover.jpg'
 photoCred: [Volkan Olmez,aG-pvyMsbis]
 tags: JavaScript
 keywords: "Math, Maths, Math in JavaScript, Maths in Javascript, JavaScript Math, JavaScript Maths, JavaScript, Learn JavaScript"

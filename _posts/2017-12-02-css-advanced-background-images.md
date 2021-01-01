@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advanced background image manipulation using CSS"
-image: '/assets/img/posts/css-advanced-background-images/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/css-advanced-background-images/cover.jpg'
 photoCred: [Alessandro Sacchi,NUFnfYd09iI]
 tags: CSS
 keywords: "learn CSS, CSS syntax, CSS, background images, background, images, CSS background images, CSS background image property, background image property, background-size, background-attachment, background-position, background-repeat, css background image, css background position, css background attachment css background size, css background repeat, background url no repeat center, background-size contain"
@@ -221,17 +221,17 @@ Have fun and I'll see you next time, where I'll be talking about [the different 
 [position-fixed]: /css-position-property/#position-fixed
 [units]: /css-units/
 
-[bg-img]: /assets/img/posts/css-advanced-background-images/cover.jpg
-[base-code]: /assets/img/posts/css-advanced-background-images/base-code.png
-[bg-size-cover]: /assets/img/posts/css-advanced-background-images/bg-size-cover.png
-[bg-size-2000px]: /assets/img/posts/css-advanced-background-images/bg-size-2000px.png
-[default-position-highlight]: /assets/img/posts/css-advanced-background-images/default-position-highlight.jpg
-[center-position-highlight]: /assets/img/posts/css-advanced-background-images/center-center-highlight.jpg
-[position-center-center]: /assets/img/posts/css-advanced-background-images/position-center-center.png
-[tiled]:  /assets/img/posts/css-advanced-background-images/tiled.png
-[no-repeat]: /assets/img/posts/css-advanced-background-images/no-repeat.png
-[color-and-img]: /assets/img/posts/css-advanced-background-images/color-and-img.png
-[bg-attachment-fixed]: /assets/img/posts/css-advanced-background-images/bg-attachment-fixed.gif
+[bg-img]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/cover.jpg
+[base-code]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/base-code.png
+[bg-size-cover]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/bg-size-cover.png
+[bg-size-2000px]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/bg-size-2000px.png
+[default-position-highlight]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/default-position-highlight.jpg
+[center-position-highlight]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/center-center-highlight.jpg
+[position-center-center]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/position-center-center.png
+[tiled]:  {{ site.baseurl }}assets/img/posts/css-advanced-background-images/tiled.png
+[no-repeat]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/no-repeat.png
+[color-and-img]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/color-and-img.png
+[bg-attachment-fixed]: {{ site.baseurl }}assets/img/posts/css-advanced-background-images/bg-attachment-fixed.gif
 
 [html]: /learn/html/
 [css]: /learn/css/`

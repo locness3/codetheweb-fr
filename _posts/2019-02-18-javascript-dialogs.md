@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Dialogs
-image: '/assets/img/posts/javascript-dialogs/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/javascript-dialogs/cover.png'
 tags: JavaScript
 keywords: "dialog, dialog box, dialog boxes, JavaScript dialog, JavaScript dialog box, JavaScript dialog boxes, alert, alerts, JavaScript alert, JavaScript alerts, confirm, confirms, JavaScript confirm, JavaScript confirms, prompt, prompts, JavaScript prompt, JavaScript prompts, JavaScript dialog modal, JavaScript alert yes no, JavaScript dialog yes no, JavaScript, Learn JavaScript"
 checked: [grammarly]
@@ -122,9 +122,9 @@ See you next time!! &#x1F600;
 
 [dom]: /javascript-dom/
 
-[alert-img]: /assets/img/posts/javascript-dialogs/alert.png
-[confirm-img]: /assets/img/posts/javascript-dialogs/confirm.png
-[prompt-img]: /assets/img/posts/javascript-dialogs/prompt.png
+[alert-img]: {{ site.baseurl }}assets/img/posts/javascript-dialogs/alert.png
+[confirm-img]: {{ site.baseurl }}assets/img/posts/javascript-dialogs/confirm.png
+[prompt-img]: {{ site.baseurl }}assets/img/posts/javascript-dialogs/prompt.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

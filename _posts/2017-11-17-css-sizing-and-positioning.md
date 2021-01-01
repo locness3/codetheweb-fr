@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CSS sizing and positioning'
-image: '/assets/img/posts/css-sizing-and-positioning/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/cover.jpg'
 photoCred: [Émile Perron,xrVDYZRGdw4]
 tags: CSS
 keywords: "learn CSS, how to learn CSS, CSS syntax, CSS"
@@ -161,15 +161,15 @@ Have fun and I'll see you next time, where I'll be talking about [more advanced 
 [units]: /css-units/
 [advanced-positioning]: /css-position-property/
 
-[initial-code]: /assets/img/posts/css-sizing-and-positioning/initial-code.png
-[width-img]: /assets/img/posts/css-sizing-and-positioning/width.png
-[height-img]: /assets/img/posts/css-sizing-and-positioning/height.png
-[margin-left-img]: /assets/img/posts/css-sizing-and-positioning/margin-left.png
-[margin-left-force-field-img]: /assets/img/posts/css-sizing-and-positioning/margin-left-force-field.png
-[margin-top-img]: /assets/img/posts/css-sizing-and-positioning/margin-top.png
-[margin-top-force-field-img]: /assets/img/posts/css-sizing-and-positioning/margin-top-force-field.png
-[padding-img]: /assets/img/posts/css-sizing-and-positioning/padding.png
-[padding-force-field-img]: /assets/img/posts/css-sizing-and-positioning/padding-force-field.png
+[initial-code]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/initial-code.png
+[width-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/width.png
+[height-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/height.png
+[margin-left-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/margin-left.png
+[margin-left-force-field-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/margin-left-force-field.png
+[margin-top-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/margin-top.png
+[margin-top-force-field-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/margin-top-force-field.png
+[padding-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/padding.png
+[padding-force-field-img]: {{ site.baseurl }}assets/img/posts/css-sizing-and-positioning/padding-force-field.png
 
 [html]: /learn/html/
 [css]: /learn/css/

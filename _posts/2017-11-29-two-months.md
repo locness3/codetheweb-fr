@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It's been 2 months since I started Code The Web!"
-image: '/assets/img/posts/two-months/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/two-months/cover.jpg'
 photoCred: [Pineapple Supply Co.,qWlkCwBnwOE]
 date: 2017-11-29 02:00:00
 tags: Other Meta
@@ -128,16 +128,16 @@ See you next time, where I'll be talking about [Advanced background images][adva
 [seo]: {{site.newsletter}}
 [advanced-background-images]: /css-advanced-background-images/
 
-[intro-email]: /assets/img/posts/two-months/intro-email.png
-[hw-1]: /assets/img/posts/two-months/hw-1.png
-[hw-1-reply]: /assets/img/posts/two-months/hw-1-reply.png
-[hw-1-reply-2]: /assets/img/posts/two-months/hw-1-reply-2.png
-[first-day]: /assets/img/posts/two-months/first-day.png
-[ga-home-graph]: /assets/img/posts/two-months/ga-home-graph.png
-[ga-geo]: /assets/img/posts/two-months/ga-geo.png
-[ga-acquisition]: /assets/img/posts/two-months/ga-acquisition.png
-[ga-content]: /assets/img/posts/two-months/ga-content.png
-[happy-birthday]: /assets/img/posts/two-months/happy-birthday.gif
+[intro-email]: {{ site.baseurl }}assets/img/posts/two-months/intro-email.png
+[hw-1]: {{ site.baseurl }}assets/img/posts/two-months/hw-1.png
+[hw-1-reply]: {{ site.baseurl }}assets/img/posts/two-months/hw-1-reply.png
+[hw-1-reply-2]: {{ site.baseurl }}assets/img/posts/two-months/hw-1-reply-2.png
+[first-day]: {{ site.baseurl }}assets/img/posts/two-months/first-day.png
+[ga-home-graph]: {{ site.baseurl }}assets/img/posts/two-months/ga-home-graph.png
+[ga-geo]: {{ site.baseurl }}assets/img/posts/two-months/ga-geo.png
+[ga-acquisition]: {{ site.baseurl }}assets/img/posts/two-months/ga-acquisition.png
+[ga-content]: {{ site.baseurl }}assets/img/posts/two-months/ga-content.png
+[happy-birthday]: {{ site.baseurl }}assets/img/posts/two-months/happy-birthday.gif
 
 [html]: /learn/html/
 [css]: /learn/css/

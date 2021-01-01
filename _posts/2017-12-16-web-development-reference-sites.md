@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "6 Reference sites to help you learn web development in 2018 and beyond... 🚀"
-image: '/assets/img/posts/web-development-reference-sites/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/web-development-reference-sites/cover.jpg'
 photoCred: [Aleksi Tappura,mCg0ZgD7BgU]
 tags: Other HTML CSS JavaScript
 keywords: "reference sites, web development, web development reference sites, reference sites for web development, reference sites to learn web development"
@@ -117,7 +117,7 @@ Have a great 2018 and hopefully these websites I shared will help you along your
 [advanced-bg-imgs]: /advanced-background-images/
 
 [w3]: https://www.w3schools.com/
-[w3-logo]: /assets/img/posts/web-development-reference-sites/w3.png
+[w3-logo]: {{ site.baseurl }}assets/img/posts/web-development-reference-sites/w3.png
 [w3-html]: https://www.w3schools.com/tags/
 [w3-css]: https://www.w3schools.com/cssref/
 [w3-js]: https://www.w3schools.com/jsref/
@@ -127,13 +127,13 @@ Have a great 2018 and hopefully these websites I shared will help you along your
 [w3-sql]: https://www.w3schools.com/sql/
 
 [devdocs]: http://devdocs.io/
-[devdocs-logo]: /assets/img/posts/web-development-reference-sites/devdocs.png
+[devdocs-logo]: {{ site.baseurl }}assets/img/posts/web-development-reference-sites/devdocs.png
 [devdocs-html]: http://devdocs.io/html/
 [devdocs-css]: http://devdocs.io/css/
 [devdocs-js]: http://devdocs.io/javascript/
 
 [fcc]: https://guide.freecodecamp.org/
-[fcc-logo]: /assets/img/posts/web-development-reference-sites/fcc.png
+[fcc-logo]: {{ site.baseurl }}assets/img/posts/web-development-reference-sites/fcc.png
 [fcc-github]: https://github.com/freeCodeCamp/guides/tree/master/src/pages
 [fcc-html]: https://guide.freecodecamp.org/html
 [fcc-css]: https://guide.freecodecamp.org/css
@@ -142,7 +142,7 @@ Have a great 2018 and hopefully these websites I shared will help you along your
 [fcc-design]: https://guide.freecodecamp.org/visual-design
 
 [mdn]: https://developer.mozilla.org/docs/Web/Reference
-[mdn-logo]: /assets/img/posts/web-development-reference-sites/mdn.png
+[mdn-logo]: {{ site.baseurl }}assets/img/posts/web-development-reference-sites/mdn.png
 [mdn-html]: https://developer.mozilla.org/docs/Web/HTML
 [mdn-css]: https://developer.mozilla.org/docs/Web/CSS
 [mdn-js]: https://developer.mozilla.org/docs/Web/JavaScript
@@ -151,14 +151,14 @@ Have a great 2018 and hopefully these websites I shared will help you along your
 [mdn-other]: https://developer.mozilla.org/docs/Web
 
 [codrops]: https://tympanus.net/codrops/css_reference/
-[codrops-logo]: /assets/img/posts/web-development-reference-sites/codrops.png
+[codrops-logo]: {{ site.baseurl }}assets/img/posts/web-development-reference-sites/codrops.png
 
 [stackoverflow]: https://stackoverflow.com/
-[stackoverflow-logo]: /assets/img/posts/web-development-reference-sites/stackoverflow.png
+[stackoverflow-logo]: {{ site.baseurl }}assets/img/posts/web-development-reference-sites/stackoverflow.png
 [stackoverflow-tour]: https://stackoverflow.com/tour
 
 [cheat-sheets]: {{site.newsletter}}
-[cheat-sheets-img]: /assets/img/banner.png
+[cheat-sheets-img]: {{ site.baseurl }}assets/img/banner.png
 
 [test-your-website]: {{site.newsletter}}
 

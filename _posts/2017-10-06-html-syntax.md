@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HTML syntax'
-image: '/assets/img/posts/html-syntax/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/html-syntax/cover.jpg'
 photoCred: [Sai Kiran Anagani,5Ntkpxqt54Y]
 date: 2017-10-06 02:00:00
 tags: HTML
@@ -75,7 +75,7 @@ See the example below:
 
 If an element doesn't have anything inside it, it *doesn't need a closing tag*. Take this an example:
 ```HTML
-<img src="/assets/img/posts/structure-of-html-tags/tag-structure-1.png">
+<img src="{{ site.baseurl }}assets/img/posts/structure-of-html-tags/tag-structure-1.png">
 ```
 As it has no contents (only attributes), it doesn't require a `</img>` closing tag.
 
@@ -101,8 +101,8 @@ Phew. That might have been a bit confusing, but eventually you'll get the hang o
 
 
 [learn-web-development]: /how-to-learn-web-development/
-[tag-structure-1]: /assets/img/posts/html-syntax/tag-structure-1.png
-[tag-structure-2]: /assets/img/posts/html-syntax/tag-structure-2.png
+[tag-structure-1]: {{ site.baseurl }}assets/img/posts/html-syntax/tag-structure-1.png
+[tag-structure-2]: {{ site.baseurl }}assets/img/posts/html-syntax/tag-structure-2.png
 [types-of-html-tags]: /basic-types-of-html-tags/
 [html-document-structure]: /structure-of-an-html-document/
 [share]: {{site.share}}

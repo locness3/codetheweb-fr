@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The comprehensive guide to CSS flexboxes"
-image: '/assets/img/posts/css-flexboxes/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/css-flexboxes/cover.jpg'
 tags: CSS
 keywords: "learn CSS, CSS syntax, CSS, flexbox, flexboxes, CSS flexbox, CSS flexboxes, display: flex, display: flex CSS, CSS flex"
 checked: [grammarly]
@@ -378,26 +378,26 @@ Keep coding, have an awesome day, and see you then!
 [examples]: http://flexible-grid.com/examples
 [full-page-image-hero]: /fullscreen-image-hero/
 
-[base-code]: /assets/img/posts/css-flexboxes/base-code.png
-[flexbox-structure]: /assets/img/posts/css-flexboxes/flexbox-structure.png
-[display-flex]: /assets/img/posts/css-flexboxes/display-flex.png
-[justify-content-center]: /assets/img/posts/css-flexboxes/justify-content-center.png
-[justify-content-flex-end]: /assets/img/posts/css-flexboxes/justify-content-flex-end.png
-[justify-content-space-around]: /assets/img/posts/css-flexboxes/justify-content-space-around.png
-[justify-content-space-around-diagram]: /assets/img/posts/css-flexboxes/justify-content-space-around-diagram.png
-[justify-content-space-between]: /assets/img/posts/css-flexboxes/justify-content-space-between.png
-[justify-content-space-between-diagram]: /assets/img/posts/css-flexboxes/justify-content-space-between-diagram.png
-[justify-content-space-evenly]: /assets/img/posts/css-flexboxes/justify-content-space-evenly.png
-[justify-content-space-evenly-diagram]: /assets/img/posts/css-flexboxes/justify-content-space-evenly-diagram.png
-[justify-content-space-around-evenly-comparison]: /assets/img/posts/css-flexboxes/justify-content-space-around-evenly-comparison.png
-[align-items-center]: /assets/img/posts/css-flexboxes/align-items-center.png
-[align-items-flex-start-flex-end]: /assets/img/posts/css-flexboxes/align-items-flex-start-flex-end.png
-[items-too-wide]: /assets/img/posts/css-flexboxes/items-too-wide.png
-[flex-wrap]: /assets/img/posts/css-flexboxes/flex-wrap.png
-[flex-wrap-responsive]: /assets/img/posts/css-flexboxes/flex-wrap-responsive.gif
-[flex-direction-column]: /assets/img/posts/css-flexboxes/flex-direction-column.png
-[flex-direction-axes]: /assets/img/posts/css-flexboxes/flex-direction-axes.png
-[order-213]: /assets/img/posts/css-flexboxes/order-213.png
+[base-code]: {{ site.baseurl }}assets/img/posts/css-flexboxes/base-code.png
+[flexbox-structure]: {{ site.baseurl }}assets/img/posts/css-flexboxes/flexbox-structure.png
+[display-flex]: {{ site.baseurl }}assets/img/posts/css-flexboxes/display-flex.png
+[justify-content-center]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-center.png
+[justify-content-flex-end]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-flex-end.png
+[justify-content-space-around]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-around.png
+[justify-content-space-around-diagram]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-around-diagram.png
+[justify-content-space-between]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-between.png
+[justify-content-space-between-diagram]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-between-diagram.png
+[justify-content-space-evenly]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-evenly.png
+[justify-content-space-evenly-diagram]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-evenly-diagram.png
+[justify-content-space-around-evenly-comparison]: {{ site.baseurl }}assets/img/posts/css-flexboxes/justify-content-space-around-evenly-comparison.png
+[align-items-center]: {{ site.baseurl }}assets/img/posts/css-flexboxes/align-items-center.png
+[align-items-flex-start-flex-end]: {{ site.baseurl }}assets/img/posts/css-flexboxes/align-items-flex-start-flex-end.png
+[items-too-wide]: {{ site.baseurl }}assets/img/posts/css-flexboxes/items-too-wide.png
+[flex-wrap]: {{ site.baseurl }}assets/img/posts/css-flexboxes/flex-wrap.png
+[flex-wrap-responsive]: {{ site.baseurl }}assets/img/posts/css-flexboxes/flex-wrap-responsive.gif
+[flex-direction-column]: {{ site.baseurl }}assets/img/posts/css-flexboxes/flex-direction-column.png
+[flex-direction-axes]: {{ site.baseurl }}assets/img/posts/css-flexboxes/flex-direction-axes.png
+[order-213]: {{ site.baseurl }}assets/img/posts/css-flexboxes/order-213.png
 
 [html]: /learn/html/
 [css]: /learn/css/

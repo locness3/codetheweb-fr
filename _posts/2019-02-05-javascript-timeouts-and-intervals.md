@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Timeouts and Intervals
-image: '/assets/img/posts/javascript-timeouts-and-intervals/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/javascript-timeouts-and-intervals/cover.jpg'
 photoCred: [Agê Barros,rBPOfVqROzY]
 tags: JavaScript
 keywords: "setTimeout, setInterval, clearTimeout, clearInterval, JavaScript timeout, JavaScript interval, setTimeout JavaScript, JavaScript sleep, JavaScript setInterval stop, JavaScript setTimeout loop, clearInterval javascript, timer, timers, clock, JavaScript clock, JavaScript, Learn JavaScript"

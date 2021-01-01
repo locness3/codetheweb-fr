@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A beginner's guide to getting your website online with GitHub Pages
-image: '/assets/img/posts/github-pages-free-hosting/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/github-pages-free-hosting/cover.png'
 tags: Other
 keywords: "GitHub Pages,GitHub Desktop,free hosting,hosting,GitHub"
 checked: [grammarly]
@@ -129,19 +129,19 @@ Oh! And if you have any feedback, need any help or just wanna say howdy, do so i
 [gh-desktop-signin]: https://help.github.com/desktop/guides/getting-started-with-github-desktop/authenticating-to-github/
 [custom-domain]: {{site.newsletter}}
 
-[google-data-center]: /assets/img/posts/github-pages-free-hosting/google-data-center.jpg
-[gh-pages-img]: /assets/img/posts/github-pages-free-hosting/cover.png
-[gh-desktop-create-new-repo-button]: /assets/img/posts/github-pages-free-hosting/gh-desktop-create-new-repo-button.png
-[gh-desktop-create-new-repo-dialogue]: /assets/img/posts/github-pages-free-hosting/gh-desktop-create-new-repo-dialogue.png
-[gh-desktop-publish-repo-button]: /assets/img/posts/github-pages-free-hosting/gh-desktop-publish-repo-button.png
-[gh-desktop-publish-repo-dialogue]: /assets/img/posts/github-pages-free-hosting/gh-desktop-publish-repo-dialogue.png
-[gh-desktop-commit-1]: /assets/img/posts/github-pages-free-hosting/gh-desktop-commit-1.png
-[gh-pages-settings]: /assets/img/posts/github-pages-free-hosting/gh-pages-settings.png
-[gh-pages-settings-link]: /assets/img/posts/github-pages-free-hosting/gh-pages-settings-link.png
-[site-1]: /assets/img/posts/github-pages-free-hosting/site-1.png
-[gh-desktop-commit-2]: /assets/img/posts/github-pages-free-hosting/gh-desktop-commit-2.png
-[gh-desktop-push-origin]: /assets/img/posts/github-pages-free-hosting/gh-desktop-push-origin.png
-[site-2]: /assets/img/posts/github-pages-free-hosting/site-2.png
+[google-data-center]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/google-data-center.jpg
+[gh-pages-img]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/cover.png
+[gh-desktop-create-new-repo-button]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-create-new-repo-button.png
+[gh-desktop-create-new-repo-dialogue]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-create-new-repo-dialogue.png
+[gh-desktop-publish-repo-button]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-publish-repo-button.png
+[gh-desktop-publish-repo-dialogue]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-publish-repo-dialogue.png
+[gh-desktop-commit-1]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-commit-1.png
+[gh-pages-settings]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-pages-settings.png
+[gh-pages-settings-link]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-pages-settings-link.png
+[site-1]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/site-1.png
+[gh-desktop-commit-2]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-commit-2.png
+[gh-desktop-push-origin]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/gh-desktop-push-origin.png
+[site-2]: {{ site.baseurl }}assets/img/posts/github-pages-free-hosting/site-2.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

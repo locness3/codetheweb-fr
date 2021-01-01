@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dates and times in JavaScript
-image: '/assets/img/posts/javascript-dates-and-times/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/javascript-dates-and-times/cover.jpg'
 photoCred: [Djim Loic,ft0-Xu4nTvA]
 tags: JavaScript
 keywords: "Date, Dates, JavaScript Date, JavaScript Dates, time, times, JavaScript date methods, JavaScript date functions, JavaScript date format, JavaScript date now, JavaScript date parse, JavaScript date add days, JavaScript date timezone, JavaScript date to string, JavaScript timestamp to date, timezone, time zones, JavaScript get current time, JavaScript new date format, new Date(), JavaScript new Date(), Date object, JavaScript Date object, JavaScript, Learn JavaScript"
@@ -366,7 +366,7 @@ See you next time, where I'll be talking about [timeouts and intervals][js-timeo
 [dom]: /javascript-dom/
 [js-timeouts-and-intervals]: {{site.newsletter}}
 
-[back-to-the-future-img]: /assets/img/posts/javascript-dates-and-times/back-to-the-future.gif
+[back-to-the-future-img]: {{ site.baseurl }}assets/img/posts/javascript-dates-and-times/back-to-the-future.gif
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

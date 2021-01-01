@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The structure of an HTML document'
-image: '/assets/img/posts/structure-of-an-html-document/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/structure-of-an-html-document/cover.png'
 tags: HTML
 keywords: "learn HTML, how to learn HTML, HTML tags, HTML structure"
 checked: [grammarly]

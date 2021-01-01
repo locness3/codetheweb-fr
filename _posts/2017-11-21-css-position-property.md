@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Advanced CSS positioning using the position property'
-image: '/assets/img/posts/css-position-property/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/css-position-property/cover.jpg'
 photoCred: [Luca Bravo,I4ywJmImdPM]
 tags: CSS
 keywords: "learn CSS, how to learn CSS, CSS syntax, CSS"
@@ -223,16 +223,16 @@ If you have any questions, feedback or just want to say hi then you can do so [i
 Have fun and I'll see you next time, where I'll be talking about [something a little different][devchat]... See you then!
 
 
-[base-code-img]: /assets/img/posts/css-position-property/base-code.png
-[viewport-img]: /assets/img/posts/css-position-property/viewport.png
-[fixed-gif]: /assets/img/posts/css-position-property/fixed.gif
-[absolute-img]: /assets/img/posts/css-position-property/absolute.png
-[absolute-gif]: /assets/img/posts/css-position-property/absolute.gif
-[relative-img]: /assets/img/posts/css-position-property/relative.png
-[relative-comparison-img]: /assets/img/posts/css-position-property/relative-comparison.png
-[sticky-gif]: /assets/img/posts/css-position-property/sticky.gif
-[z-index-img]: /assets/img/posts/css-position-property/z-index.png
-[z-index-gif]: /assets/img/posts/css-position-property/z-index.gif
+[base-code-img]: {{ site.baseurl }}assets/img/posts/css-position-property/base-code.png
+[viewport-img]: {{ site.baseurl }}assets/img/posts/css-position-property/viewport.png
+[fixed-gif]: {{ site.baseurl }}assets/img/posts/css-position-property/fixed.gif
+[absolute-img]: {{ site.baseurl }}assets/img/posts/css-position-property/absolute.png
+[absolute-gif]: {{ site.baseurl }}assets/img/posts/css-position-property/absolute.gif
+[relative-img]: {{ site.baseurl }}assets/img/posts/css-position-property/relative.png
+[relative-comparison-img]: {{ site.baseurl }}assets/img/posts/css-position-property/relative-comparison.png
+[sticky-gif]: {{ site.baseurl }}assets/img/posts/css-position-property/sticky.gif
+[z-index-img]: {{ site.baseurl }}assets/img/posts/css-position-property/z-index.png
+[z-index-gif]: {{ site.baseurl }}assets/img/posts/css-position-property/z-index.gif
 
 [units]: /css-units/
 [devchat]: /devchat/

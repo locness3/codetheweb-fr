@@ -1,7 +1,7 @@
 ---
 layout: post
 title: For loops and while loops in JavaScript
-image: '/assets/img/posts/for-and-while-loops-javascript/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/for-and-while-loops-javascript/cover.jpg'
 photoCred: [Ian Romie Ona,x6QdZQkuroI]
 tags: JavaScript
 keywords: "For loop, While loop, For loops, While loops, For, While, For and while loops in JavaScript, For loops in JavaScript, While loops in JavaScript, Loops in JavaScript, JavaScript, Learn JavaScript, else if and if, else if and if else, if and if else"

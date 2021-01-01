@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to create a website using HTML and CSS in 7 steps"
-image: '/assets/img/posts/steps-to-creating-a-website/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/cover.png'
 tags: Other HTML CSS
 keywords: "how to create a webpage using html and css, how to create a website using html and css, steps to creating a website, how to create a website using html css and javascript step by step, how to create a website using html"
 checked: [grammarly]
@@ -15,7 +15,7 @@ This article is more about guiding you through the though-process of creating a 
 [Here's the final product of the site I'll be building today.][demo]{:target='_blank'} Take a look at it, and keep it in mind as we go through the tutorial.
 
 <!-- ![The final product!][final-product] -->
-{% gifvid /assets/img/posts/steps-to-creating-a-website/final-product %}
+{% gifvid {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/final-product %}
 
 It's going to be a fictional site about Boberick the llama (I get the strangest ideas sometimes...)
 
@@ -217,7 +217,7 @@ Here, we are only adding styles to make our overall layout look similar - not th
 
 This is the result:
 <!-- ![Now our page looks similar to the sketch!][layout-css]{:.screenshot-white} -->
-{% gifvid /assets/img/posts/steps-to-creating-a-website/layout-css %}
+{% gifvid {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/layout-css %}
 
 ## 6. Add more specific styles
 Once the basic framework of the site is done, we can add more specific styles.
@@ -298,7 +298,7 @@ As you can see, we've made the title bigger, rounded our image (using `border-ra
 
 Here's the result:
 <!-- ![Our website after adding more specific styles][specific-styles]{:.screenshot-white} -->
-{% gifvid /assets/img/posts/steps-to-creating-a-website/specific-styles %}
+{% gifvid {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/specific-styles %}
 
 ## 7. Add colors and backgrounds
 Yay, we're on the home stretch now! It's time to add the finishing touches to our website - colors and backgrounds!
@@ -431,12 +431,12 @@ Have fun, keep coding, and I'll see you next time, where' I'll be talking about 
 [bg-gradient-overlay]: /fullscreen-image-hero/#bg-gradient-overlay
 [fullscreen-hero-image]: /fullscreen-image-hero/
 
-[sketch]: /assets/img/posts/steps-to-creating-a-website/sketch.png
-[base-code]: /assets/img/posts/steps-to-creating-a-website/base-code.png
-[html-content]: /assets/img/posts/steps-to-creating-a-website/html-content.png
-[layout-css]: /assets/img/posts/steps-to-creating-a-website/layout-css.gif
-[specific-styles]: /assets/img/posts/steps-to-creating-a-website/specific-styles.gif
-[final-product]: /assets/img/posts/steps-to-creating-a-website/final-product.gif
+[sketch]: {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/sketch.png
+[base-code]: {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/base-code.png
+[html-content]: {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/html-content.png
+[layout-css]: {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/layout-css.gif
+[specific-styles]: {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/specific-styles.gif
+[final-product]: {{ site.baseurl }}assets/img/posts/steps-to-creating-a-website/final-product.gif
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

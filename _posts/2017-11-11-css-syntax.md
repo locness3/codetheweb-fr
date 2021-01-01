@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CSS syntax'
-image: '/assets/img/posts/css-syntax/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/css-syntax/cover.jpg'
 photoCred: [Nick Karvounis,TkZYCXmrKK4]
 tags: CSS
 keywords: "learn CSS, how to learn CSS, CSS syntax, CSS"
@@ -270,10 +270,10 @@ Have fun and I'll see you [next time, where I'll be talking about some basic CSS
 
 [html]: /learn/html/
 [css]: /learn/css/
-[no-css]: /assets/img/posts/how-to-learn-web-development/no-css.png
-[with-css]: /assets/img/posts/css-syntax/with-css.png
+[no-css]: {{ site.baseurl }}assets/img/posts/how-to-learn-web-development/no-css.png
+[with-css]: {{ site.baseurl }}assets/img/posts/css-syntax/with-css.png
 [run-code]: /web-development-on-your-computer/#running-your-code
-[final-page]: /assets/img/posts/css-syntax/final-page.png
+[final-page]: {{ site.baseurl }}assets/img/posts/css-syntax/final-page.png
 [advanced-css-selectors]: {{site.newsletter}}
 [freecodecamp-reference]: https://guide.freecodecamp.org/css/tutorials/css-selectors-cheat-sheet/
 [css-properties]: /basic-css-properties/

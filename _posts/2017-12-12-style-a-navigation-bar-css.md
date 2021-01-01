@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Styling a navigation bar using CSS"
-image: '/assets/img/posts/style-a-navigation-bar-css/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/cover.png'
 photoCred: [Christopher Burns,C1J_eSGNPt0]
 tags: CSS
 keywords: "navigation bar, navbar, navbar css, navigation bar css, css navigation bar"
@@ -547,22 +547,22 @@ Have fun, keep coding and I'll see you next time, where I'll be talking about [w
 [html-icons]: /html-icons/
 
 
-[final-product]: /assets/img/posts/style-a-navigation-bar-css/final-product.png
-[final-product-gif]: /assets/img/posts/style-a-navigation-bar-css/final-product.gif
-[base-html]: /assets/img/posts/style-a-navigation-bar-css/base-html.png
-[fixed-image-height]: /assets/img/posts/style-a-navigation-bar-css/fixed-image-height.png
-[base-css]: /assets/img/posts/style-a-navigation-bar-css/base-css.png
-[header-positioning]: /assets/img/posts/style-a-navigation-bar-css/header-positioning.png
-[body-margin-top]: /assets/img/posts/style-a-navigation-bar-css/body-margin-top.png
-[body-padding]: /assets/img/posts/style-a-navigation-bar-css/body-padding.png
-[body-margin-padding-visualized]: /assets/img/posts/style-a-navigation-bar-css/body-margin-padding-visualized.png
-[header-items-inline]: /assets/img/posts/style-a-navigation-bar-css/header-items-inline.png
-[header-display-flex]: /assets/img/posts/style-a-navigation-bar-css/header-display-flex.png
-[align-items-center]: /assets/img/posts/style-a-navigation-bar-css/align-items-center.png
-[header-items-margin]: /assets/img/posts/style-a-navigation-bar-css/header-items-margin.png
-[link-styling-override]: /assets/img/posts/style-a-navigation-bar-css/link-styling-override.png
-[logo-margin-left]: /assets/img/posts/style-a-navigation-bar-css/logo-margin-left.png
-[box-shadow-syntax]: /assets/img/posts/style-a-navigation-bar-css/box-shadow-syntax.png
+[final-product]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/final-product.png
+[final-product-gif]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/final-product.gif
+[base-html]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/base-html.png
+[fixed-image-height]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/fixed-image-height.png
+[base-css]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/base-css.png
+[header-positioning]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/header-positioning.png
+[body-margin-top]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/body-margin-top.png
+[body-padding]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/body-padding.png
+[body-margin-padding-visualized]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/body-margin-padding-visualized.png
+[header-items-inline]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/header-items-inline.png
+[header-display-flex]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/header-display-flex.png
+[align-items-center]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/align-items-center.png
+[header-items-margin]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/header-items-margin.png
+[link-styling-override]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/link-styling-override.png
+[logo-margin-left]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/logo-margin-left.png
+[box-shadow-syntax]: {{ site.baseurl }}assets/img/posts/style-a-navigation-bar-css/box-shadow-syntax.png
 
 [contact]: {{site.contact}}
 [html]: /learn/html/

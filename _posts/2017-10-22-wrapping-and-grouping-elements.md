@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wrapping and grouping HTML elements'
-image: '/assets/img/posts/wrapping-and-grouping-elements/cover.png'
+image: '{{ site.baseurl }}assets/img/posts/wrapping-and-grouping-elements/cover.png'
 tags: HTML
 keywords: "learn HTML, how to learn HTML, HTML tags, div, span, grouping, groups, wrapping, Wrapping and grouping HTML elements, Wrapping HTML elements, Grouping HTML elements"
 ---

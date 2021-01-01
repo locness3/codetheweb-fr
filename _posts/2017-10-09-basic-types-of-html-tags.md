@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Basic types of HTML tags'
-image: '/assets/img/posts/basic-types-of-html-tags/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/basic-types-of-html-tags/cover.jpg'
 tags: HTML
 keywords: "learn HTML, how to learn HTML, HTML tags, types of HTML tags"
 checked: [grammarly]
@@ -247,10 +247,10 @@ If there's anything you want to ask/tell me, do so in the [comments below][comme
 [syntax]: /html-syntax/
 [last-post]: /structure-of-an-html-document/
 [preview]: /web-development-on-your-computer/#running-your-code
-[headings]: /assets/img/posts/basic-types-of-html-tags/headings.png
-[paragraphs]: /assets/img/posts/basic-types-of-html-tags/paragraphs.png
-[br]: /assets/img/posts/basic-types-of-html-tags/br.png
-[hr]: /assets/img/posts/basic-types-of-html-tags/hr.png
+[headings]: {{ site.baseurl }}assets/img/posts/basic-types-of-html-tags/headings.png
+[paragraphs]: {{ site.baseurl }}assets/img/posts/basic-types-of-html-tags/paragraphs.png
+[br]: {{ site.baseurl }}assets/img/posts/basic-types-of-html-tags/br.png
+[hr]: {{ site.baseurl }}assets/img/posts/basic-types-of-html-tags/hr.png
 [links-and-images]: /links-images-about-file-paths/
 [share]: {{site.share}}
 [comments]: {{site.comments}}

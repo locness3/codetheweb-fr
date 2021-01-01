@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Practice web development on your computer'
-image: '/assets/img/posts/web-development-on-your-computer/cover.jpg'
+image: '{{ site.baseurl }}assets/img/posts/web-development-on-your-computer/cover.jpg'
 photoCred: [Goran Ivos,T8LMIN09-mo]
 date: 2017-10-06 01:00:00
 tags: Other
@@ -92,10 +92,10 @@ Hopefully you know have a full web development set-up! This will be great for le
 [atom]: https://atom.io/
 [vs-code]: https://code.visualstudio.com/
 [hyper]: https://hyper.is/
-[file-structure]: /assets/img/posts/web-development-on-your-computer/file-structure.png
-[website-folder]: /assets/img/posts/web-development-on-your-computer/website-folder.png
-[html-in-browser]: /assets/img/posts/web-development-on-your-computer/index.html.png
-[this-url-folders]: /assets/img/posts/web-development-on-your-computer/this-url-folders.png
+[file-structure]: {{ site.baseurl }}assets/img/posts/web-development-on-your-computer/file-structure.png
+[website-folder]: {{ site.baseurl }}assets/img/posts/web-development-on-your-computer/website-folder.png
+[html-in-browser]: {{ site.baseurl }}assets/img/posts/web-development-on-your-computer/index.html.png
+[this-url-folders]: {{ site.baseurl }}assets/img/posts/web-development-on-your-computer/this-url-folders.png
 [share]: {{site.share}}
 [comments]: {{site.comments}}
 [newsletter]: {{site.newsletter}}
