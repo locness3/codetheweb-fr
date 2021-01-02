@@ -26,7 +26,7 @@ regenerate: true
         <tr>
             <td class="post-num">#{{forloop.index}}</td>
             <td class="post-date">{{post.date | date: "%A %-d %B %Y"}}</td>
-            <td class="post-title"><a href="{{post.url}}" target="_blank">{{post.title}}</a></td>
+            <td class="post-title"><a href="{{post.url | relative_url }}" target="_blank">{{post.title}}</a></td>
             <td class="post-words">{{post_words}}</td>
             <td class="post-read-time">{{post_words | divided_by: site.wpm}} mins</td>
             <td class="post-checked">{% if post.checked contains 'grammarly' %}<img src="{{ site.baseurl }}assets/img/grammarly.png" title="Grammarly">{% endif %}{% if post.checked contains 'hemingway' %}<img src="{{ site.baseurl }}assets/img/hemingway.png" title="Hemingway">{% endif %}{% if post.checked == nil %}<img src="{{ site.baseurl }}assets/img/x-emoji.png" title="None">{% endif %}</td>
