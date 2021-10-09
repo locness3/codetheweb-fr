@@ -1,38 +1,45 @@
 ---
 layout: post
-title: 'How to learn web development'
+title: 'Comment apprendre le développement web'
 image: 'assets/img/posts/how-to-learn-web-development/cover.jpg'
 tags: Other HTML CSS JavaScript
 suggestedlang: HTML
 keywords: "learn code, learn to code, learn web development, learn html, learn css, learn javascript, learn html and css, how to become a web developer, how to learn html, how to learn css, how to learn javascript, how to learn web development, how to make a website"
 checked: [grammarly]
 ---
-So you want to learn web development. But how do you actually go about learning it? Read on to find out...
+Alors, vous voulez apprendre le développement web? Lisez ci-dessous pour savoir comment...
 
-> **Looking to jump right in and learn a language? [Do so here.][learn]**
+> **Vous voulez apprendre un langage en particulier? [C'est par ici.][learn]**
 
-## What is web development?
-You've probably heard of coding, or programming (actually I'm sure you have!). Well, web development is just a type of coding - specifically, coding websites or web applications (websites that do stuff). It is one of the most common forms of programming in this day and age, and a great place to start for beginner programmers.
+## Qu'est-ce que le développement web?
+Vous avez très probablement entendu parler du codage ou de la programmation (je suis sûr que si!). En fait, le développement web est une façon de coder, spécifiquement des sites Internet et des applications web (des sites web interactifs, qui permettent de faire des choses). De nos jours, c'est une manière de programmer très répandue, et une bonne façon de commencer à coder.
 
-## Why you should learn web development
-If you are just learning to code, web development is a great place to start - but why?
-1. It is relatively easy at first (but you can get much more advanced)
-2. It is fun (yay!)
-3. You are coding things that you would use every day - websites
+## Pourquoi apprendre le développement web?
+Si vous débutez en codage, le développement web est une bonne façon de commencer:
+1. C'est relativement simple au début - mais vous pouvez aller plus loin
+2. C'est amusant (ouais!)
+3. Vous créez ce que vous utilisez tous les jours - des sites Internet
+4. *Ajouté par la traduction.* Vous avez la liberté de créer *votre* site comme vous le voulez!
 
-If you are curious, enjoy a challenge and enjoy learning new things, web development is for you. That said, I also agree with this [great article from Simple Programmer][dont-code] that coding should be done because you want to, not because you think it will lead to some irrational future outcome.
+Si vous êtes curieux, aimez les défis ou apprendre des nouvelles choses, le développement web est pour vous. 
+{% comment %}TODO : Il faut tout de même prendre en considération la barrière entre le développement web simple et la programmation.{% endcomment %}
+Cela étant dit, il est mieux de coder si vous en avez envie, et non pas pour avoir un bon métier et suivre la tendance, comme dit dans [cet article de Simple Programmer][dont-code] (en anglais).
 
+{% comment %}
 ## How I learned web development
 Well, I wanted to learn to code. I looked at tutorials from all over the internet and got the rest of my knowledge from actually coding and what I needed as I went along.
+{% endcomment %}
 
-## Your learning strategy
-Read this blog every second of your life. Wait what? - yeah, of course I was going to say that. But seriously:
+{% comment %}TODO : qu'est-ce qu'un langage de programmation?{% endcomment %}
 
-First I would recommend learning the syntax of your language - as in how to actually write it, what it does and the main features of the language (I'll be writing about that soon, so stay tuned!).
+## Une stratégie pour apprendre
+Lisez ce site à chaque instant de votre vie. Attends, quoi? - si, c'est ce qu'on voulait dire. Plus sérieusement:
 
-Next, instead of learning *every single minute feature* of the language, just get going. By this point, you will have enough under your belt to make some basic websites, and you can pick more up as you go along. Whenever you don't know how to do something that you need to do, look it up. Actually, I'll tell you a secret right now - StackOverflow (it's free, I'm not paid to promote it or anything).
+Vous devirez premièrement apprendre la syntaxe des langages - c'est à dire comment écrire le code -, leur utilité et leurs fonctionnalités.
 
-[StackOverflow] is a programming help forum website. Nine times out of ten, when you look something up on there someone has already answered it - and if not, you can post a question. There is a massive community so you will usually get an answer to your question only a few minutes after posting it (unless it's really obscure). The people on there are really generous, nice and also very smart. Okay, enough ranting about StackOverflow.
+Ensuite, au lieu d'apprendre *chaque fonctionnalité de chaque langage*, lancez-vous directement. Vous en saurez assez pour faire des sites basiques, et vous pourrez en apprendre plus au fur et à mesure. Quand vous ne savez pas comment faire quelque chose, cherchez sur Internet. Un petit secret de développeur : StackOverflow.
+
+[StackOverflow] est un site de questions-réponses pour la programmation. Neuf fois sur dix, quelqu'un aura déja répondu à votre question - et si non, vous pouvez demander. Il y a une grande communauté, vous aurez généralement une réponse sous quelques minutes. Les gens là-bas sont intelligents et sympathiques. Okay, enough ranting about StackOverflow.
 
 > **EDIT:** [I have wrote an article about 5 other quick-reference sites that you can go to look things up on.][reference-sites-to-help-you-learn-coding]{:target='_blank'}
 

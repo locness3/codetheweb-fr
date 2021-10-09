@@ -1,10 +1,12 @@
 # Site settings
-title: 'Code The Web'
-description: 'Web development explained for normal people — Learn HTML, CSS and JavaScript in ways that you can actually understand!'
-keyword: 'code the web, code the web blog, blog, web, web development, development, programming, internet, blog, website, html, css, javascript, learn, code, coding, learn to code, code web'
-url: 'https://codetheweb.blog'
+title: 'Codez le web!'
+description: 'Le développement web expliqué pour des gens normaux! Traduction non officielle de Code The Web.'
+keyword: 'code the web, code the web blog, code the web français, code the web blog français, code the web fr, code the web blog français,
+blog, développement web, développement, programmation, internet, blog,
+html, css, javascript, apprendre, codage, apprendre à coder, apprendre à programmer, créer un site web'
+url: 'https://locness.duckdns.org/codezleweb'
 urlhost: 'codetheweb.blog' # site.url without protocol
-baseurl: '/'
+baseurl: '/codezleweb/'
 
 # Hide future posts
 future: false
@@ -13,7 +15,7 @@ future: false
 nav:
   home: '/'
   tags: '/tags/'
-  "newsletter &#127790; &#128640;": '/newsletter/'
+  # "newsletter &#127790; &#128640;": '/newsletter/'
 
 # Author
 author: 'Ethan'
@@ -28,7 +30,7 @@ search: true
 nightMode: true
 
 # Comments
-disqus: true
+disqus: false
 disqus_url: 'https://codetheweb-blog.disqus.com/embed.js'
 
 # Share
@@ -91,8 +93,8 @@ defaults:
 
 sass:
   style: compressed
-  
-newsletter: /newsletter/
+
+
 share: '#share'
 comments: '#disqus_thread'
 contact: /contact
